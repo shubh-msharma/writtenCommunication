@@ -24,7 +24,7 @@ Each layer provides some services and a bunch of protocols.
 
 ### OSI model layers
 
-1. Application layer
+1. Application Layer
 
     * This layer provides protocols such as HTTP/S, FTP, SMTP.
 
@@ -38,13 +38,13 @@ Each layer provides some services and a bunch of protocols.
 
     * It helps in maintaining sessions for each client which gets terminated after a specified duration or when the client closes the browser.
 
-3. Presentation layers
+3. Presentation Layer
 
     * This layer converts the data into machine representable form.
 
     * encryption, decryption, and compression are performed at this layer.
 
-4. Transport layer
+4. Transport Layer
 
     * This layer performs segmentation, flow control, and error control.
 
@@ -56,7 +56,7 @@ Each layer provides some services and a bunch of protocols.
 
     * Transport layer is responsible for dividing data into segments which then received by the next layers.
 
-5. Network layer
+5. Network Layer
 
     * Network layer segments data from the Transport layer and divide it into packets.
 
@@ -64,7 +64,7 @@ Each layer provides some services and a bunch of protocols.
 
     * Logical address is an IP address which is unique for each computer and helps in finding networks and hosts within the networks.
 
-6. Datalink layer
+6. Datalink Layer
 
     * This layer further divides data into frames.
 
@@ -72,6 +72,6 @@ Each layer provides some services and a bunch of protocols.
 
     * This layer allows other layers to user media for data transfer through media access control
 
-7. Physical layer
+7. Physical Layer
 
     * At this layer data which is in form of binary bits gets converted to signals and transmitted over a network
