@@ -22,7 +22,7 @@ OSI stands for Open System Interconnection, a seven-layer model introduced by IS
 
 Each layer provides some services and a bunch of protocols.
 
-![iso-osi model](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educba.com%2Fwhat-is-osi-model%2F&psig=AOvVaw32jiwiz-wDZUjKdmtNbMtN&ust=1596970087989000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKj5kLG3i-sCFQAAAAAdAAAAABAD)
+![iso-osi model](https://cdn.educba.com/academy/wp-content/uploads/2019/07/OSI-Model.png)
 
 ### OSI model layers
 
